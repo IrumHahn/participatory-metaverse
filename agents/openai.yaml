@@ -1,0 +1,4 @@
+interface:
+  display_name: "참여형 미니 메타버스"
+  short_description: "질문으로 콘셉트를 정하고 함께 걷고 교류하는 작은 3D 세계 제작"
+  default_prompt: "$participatory-metaverse를 사용해 내 목적과 참여 방식을 질문한 뒤, 사람들이 함께 즐길 수 있는 간단한 메타버스를 만들어줘."
